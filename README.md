@@ -1,2 +1,2 @@
 # Taco Loco
-Code files for the Taco Loco challenge.
+To open this project, simply download the files and launch them using a local server. I personally use an extension for Visual Studio Code referred to as "Live Server". Once the application is open, the user is introduced to a screen where they can choose between entering a new delivery or seeing all current deliveries. All data is stored locally in the user's Browser via the local storage API.
