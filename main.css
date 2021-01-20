@@ -19,6 +19,7 @@ main {
     justify-content: center;
 }
 input {
+    width: 100%;
     border: 1px solid black;
     margin: 0px 15px;
 }
@@ -50,7 +51,8 @@ input {
     cursor: pointer;
 }
 #box {
-    width: 450px;
+    width: 100vw;
+    max-width: 450px;
     padding: 15px;
     border: 1px solid black;
     display: flex;
